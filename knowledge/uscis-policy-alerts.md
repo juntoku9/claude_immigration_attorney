@@ -2,6 +2,19 @@
 
 ## Policy Alerts
 
+### PA-2022-02 (January 21, 2022) — National Interest Waivers
+**Critical for:** EB-2 NIW petitions (Matter of Dhanasar three-prong analysis)
+
+**What it does:** Updates the USCIS Policy Manual at **6 USCIS-PM F.5** ("Advanced Degree or Exceptional Ability") to add detailed guidance on national interest waivers for advanced degree professionals and persons of exceptional ability, including dedicated considerations for STEM fields and entrepreneurs.
+
+**How to use:** This is the controlling NIW policy guidance under *Matter of Dhanasar*. When the beneficiary holds an advanced STEM degree (especially a Ph.D.) and the proposed endeavor furthers a critical and emerging technology or other STEM area important to U.S. competitiveness or national security, cite this alert to argue favorable weighting on the national importance (Prong 1) and on-balance (Prong 3) analyses. Officers may consult the critical and emerging technologies lists published by the White House (National Science and Technology Council / National Security Council).
+
+**Applies to:** EB-2 NIW petitions only (not O-1A/EB-1A).
+
+**Primary source:** https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20220121-NationalInterestWaivers.pdf
+
+---
+
 ### PA-2022-03 (January 21, 2022) — Equity as High Remuneration
 **Critical for:** O-1A Criterion 7, EB-1A Criterion 8
 
