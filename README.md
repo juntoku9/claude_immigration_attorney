@@ -1,3 +1,5 @@
+[![Try EB-1A / NIW / O-1 Petition Workflow on Socialistic](https://socialistic.ai/api/embed/immigration-petition-package-eb3e7b?lang=en)](https://socialistic.ai/en/skill/immigration-petition-package-eb3e7b?utm_source=github&utm_medium=pr&utm_campaign=d3874e35&utm_content=badge)
+
 <p align="center">
   <img src="assets/logo.png" alt="Claude Immigration Attorney" width="200">
 </p>
